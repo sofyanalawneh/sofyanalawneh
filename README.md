@@ -85,6 +85,15 @@
 
 ---
 
+# 📚 Currently Learning
+
+- 🐍 Python
+- 🌐 Django
+- 🏗️ Software Architecture
+- 🧹 Clean Code Principles
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -109,27 +118,46 @@ Currently gaining practical experience in:
 
 ---
 
-# 🚀 Areas of Expertise
+# 🚀 Featured Projects
 
-- 💻 Frontend Development
-- ⚙️ Backend Development
-- 📱 Mobile Application Development
-- 🔗 RESTful API Development
-- 🗄️ Database Integration
-- ☁️ Cloud Backend Services (Firebase & Supabase)
-- 🎨 UI / UX Design
-- 📐 Responsive Web Design
-- 🌿 Git & GitHub
-- 🧩 Problem Solving
+## 🌐 Laravel Demo
+
+**Full Stack Web Application**
+
+- Frontend: React.js
+- Backend: Laravel (PHP)
+
+🔗 Repository:
+https://github.com/sofyanalawneh/Laravel_Demo
 
 ---
 
-# 📚 Currently Learning
+## 📱 QuickMart App
 
-- 🐍 Python
-- 🌐 Django
-- 🏗️ Software Architecture
-- 🧹 Clean Code Principles
+**Mobile Shopping Application**
+
+Built with React Native.
+
+🔗 Repository:
+https://github.com/sofyanalawneh/QuickMartApp
+
+---
+
+## ☕ Advanced Java Project
+
+Desktop application developed for the Advanced Java course.
+
+🔗 Repository:
+https://github.com/sofyanalawneh/Advanced-Java-Project
+
+---
+
+## 🧪 Playwright Automation
+
+Automation testing project built using Playwright.
+
+🔗 Repository:
+https://github.com/sofyanalawneh/playwright-hw3
 
 ---
 
@@ -154,3 +182,7 @@ Currently gaining practical experience in:
 ### ⭐ Thanks for visiting my GitHub!
 
 Feel free to explore my repositories and connect with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer"/>
+
+</div>
