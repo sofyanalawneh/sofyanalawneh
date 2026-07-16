@@ -2,23 +2,25 @@
 
 # 👋 Hi, I'm Sofyan Alawneh
 
-### 🚀 Full Stack Developer | Software Engineering Student | React.js Developer
+### 🚀 Full Stack Developer | Software Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Engineering+Student;React.js+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies;Welcome+To+My+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;React.js+Developer;Laravel+Developer;Currently+Learning+Django;Welcome+to+my+GitHub!" />
+
+<img src="https://komarev.com/ghpvc/?username=sofyanalawneh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Software Engineering Student at **An-Najah National University**
+🎓 **Software Engineering Student** at **An-Najah National University**
 
-💼 Full Stack Developer Trainee at **OppoTrain**
+💼 **Full Stack Developer Trainee** at **OppoTrain**
 
-💻 Passionate about building scalable, responsive and modern web applications.
+💻 Passionate about building modern, responsive and scalable web applications.
 
-🌱 Currently improving my skills in Backend Development, Clean Architecture and Modern Web Technologies.
+🌱 Currently learning **Django (Python)** while expanding my backend development skills.
 
 🎯 My goal is to become a professional Full Stack Software Engineer.
 
@@ -26,39 +28,57 @@
 
 # 🚀 Tech Stack
 
-### Frontend
+## 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
-### Backend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+---
+
+## ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-### Database
+- PHP
+- Laravel
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+---
+
+## 🗄️ Currently Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
-### Tools
+- Python
+- Django
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux" />
+---
+
+## 🛠️ Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sofyanalawneh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sofyanalawneh&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanalawneh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanalawneh&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -68,17 +88,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sofyanalawneh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sofyanalawneh&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://streak-stats.demolab.com?user=sofyanalawneh&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -86,32 +96,45 @@
 
 # 💼 Experience
 
-### 🚀 Full Stack Developer Trainee
+## 🚀 Full Stack Developer Trainee
 
-**🏢 OppoTrain**
+### 🏢 OppoTrain
 
-Working on:
+Working with:
 
-- Modern React Applications
-- Backend APIs
-- Authentication
-- Databases
-- Git Workflow
+- React.js
+- Laravel
+- REST APIs
+- Git & GitHub
 - Team Collaboration
+- Clean Code
+- Responsive Web Applications
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Featured Skills
 
-✨ Full Stack Projects
+✅ Frontend Development
 
-✨ Responsive Web Applications
+✅ Backend Development
 
-✨ RESTful APIs
+✅ REST APIs
 
-✨ Graduation Projects
+✅ UI/UX
 
-✨ UI/UX Designs
+✅ Responsive Design
+
+✅ Version Control (Git)
+
+---
+
+# 🎯 2025 Goals
+
+- ✅ Master Laravel
+- ✅ Learn Django
+- ✅ Build more Full Stack Projects
+- ✅ Contribute to Open Source
+- ✅ Improve Problem Solving Skills
 
 ---
 
@@ -135,6 +158,6 @@ Working on:
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer"/>
 
 </div>
