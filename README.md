@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sofyan Alawneh
 
-### 🚀 Full Stack Developer | Software Engineering Student
+### 💻 Full Stack Developer | Software Engineering Student @ An-Najah National University
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Software+Engineering+Student;React.js+Developer;Laravel+Developer;React+Native+Developer;Currently+Learning+Django;Welcome+to+my+GitHub!" />
 
@@ -24,7 +24,7 @@
 
 🎨 Interested in UI/UX Design and creating intuitive user experiences.
 
-🌱 Currently learning **Python & Django**.
+🌱 Currently expanding my backend development skills with Python & Django.
 
 🎯 My goal is to become a Professional Full Stack Software Engineer.
 
