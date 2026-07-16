@@ -151,10 +151,6 @@ Currently gaining practical experience in:
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### ⭐ Thanks for visiting my GitHub!
 
-**Let's build something amazing together 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer"/>
-
-</div>
+Feel free to explore my repositories and connect with me.
