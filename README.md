@@ -16,16 +16,17 @@
 
 # 👨‍💻 About Me
 
-🎓 **B.Sc. Student in Software Engineering**  
+🎓 **B.Sc. Student in Software Engineering**
+
 📍 An-Najah National University, Palestine
 
 💼 **Full Stack Developer Trainee @ OppoTrain**
 
 💻 Passionate about building scalable, responsive and user-friendly web applications.
 
-🎨 Interested in UI/UX Design and creating clean user experiences.
+🎨 Interested in UI/UX Design and creating clean, modern user experiences.
 
-🌱 Currently learning **Python** and **Django** while improving my backend development skills.
+🌱 Currently learning **Python** & **Django** while expanding my backend development skills.
 
 🎯 Passionate about continuous learning and building impactful software solutions.
 
@@ -60,7 +61,7 @@
 
 ---
 
-## 🗄️ Databases & Backend Services
+## 🗄️ Database & Backend Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
@@ -83,7 +84,7 @@
 
 ---
 
-## 🛠️ Tools
+## 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
@@ -109,19 +110,17 @@
 
 # 💼 Experience
 
-## Full Stack Developer Trainee @ OppoTrain
+## Full Stack Developer Trainee
 
-Working on:
+**🏢 OppoTrain**
 
-- React.js Applications
-- Laravel Applications
-- REST APIs
-- Authentication & Authorization
-- Database Integration
-- Git Workflow
+Currently gaining hands-on experience in:
+
+- Software Development
 - Team Collaboration
-- Clean Code
-- Responsive Web Applications
+- Git Workflow
+- Agile Development Practices
+- Working on Real-world Projects
 
 ---
 
@@ -131,8 +130,9 @@ Working on:
 - ⚙️ Backend Development
 - 📱 Mobile Development
 - 🔗 REST API Development
-- 🎨 UI / UX Design
 - 🗄️ Database Integration
+- ☁️ Backend as a Service (Firebase & Supabase)
+- 🎨 UI / UX Design
 - 📐 Responsive Web Design
 - 🌿 Git & GitHub
 - 🧩 Problem Solving
