@@ -128,7 +128,6 @@ Currently gaining practical experience in:
 
 - 🐍 Python
 - 🌐 Django
-- 📱 Advanced React Native
 - 🏗️ Software Architecture
 - 🧹 Clean Code Principles
 
