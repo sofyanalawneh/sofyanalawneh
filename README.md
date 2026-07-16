@@ -4,9 +4,11 @@
 
 ### 🚀 Full Stack Developer | Software Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;React.js+Developer;Laravel+Developer;Currently+Learning+Django;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Software+Engineering+Student;React.js+Developer;Laravel+Developer;React+Native+Developer;Currently+Learning+Django;Welcome+to+my+GitHub!" />
 
-<img src="https://komarev.com/ghpvc/?username=sofyanalawneh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sofyanalawneh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -14,15 +16,17 @@
 
 # 👨‍💻 About Me
 
-🎓 **Software Engineering Student** at **An-Najah National University**
+🎓 Software Engineering Student at **An-Najah National University**
 
-💼 **Full Stack Developer Trainee** at **OppoTrain**
+💼 Full Stack Developer Trainee at **OppoTrain**
 
-💻 Passionate about building modern, responsive and scalable web applications.
+🚀 Passionate about building scalable and modern web applications.
 
-🌱 Currently learning **Django (Python)** while expanding my backend development skills.
+🎨 Interested in UI/UX Design and creating clean user experiences.
 
-🎯 My goal is to become a professional Full Stack Software Engineer.
+📚 Currently learning **Python & Django**.
+
+🎯 My goal is to become a Professional Full Stack Software Engineer.
 
 ---
 
@@ -30,22 +34,27 @@
 
 ## 🎨 Frontend
 
-<p align="left">
+<p>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+
 </p>
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - TypeScript
 - React.js
+- React Native
 
 ---
 
 ## ⚙️ Backend
 
-<p align="left">
+<p>
+
 <img src="https://skillicons.dev/icons?i=php,laravel" />
+
 </p>
 
 - PHP
@@ -53,10 +62,26 @@
 
 ---
 
-## 🗄️ Currently Learning
+## 🗄️ Databases & Backend Services
 
-<p align="left">
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
+
+</p>
+
+- MongoDB
+- Firebase
+- Supabase
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=python,django" />
+
 </p>
 
 - Python
@@ -64,10 +89,12 @@
 
 ---
 
-## 🛠️ Tools
+## 🛠 Tools
 
-<p align="left">
+<p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
 </p>
 
 ---
@@ -76,9 +103,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sofyanalawneh&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sofyanalawneh&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanalawneh&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanalawneh&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -94,70 +121,74 @@
 
 ---
 
-# 💼 Experience
+# 🏢 Experience
 
 ## 🚀 Full Stack Developer Trainee
 
-### 🏢 OppoTrain
+### OppoTrain
 
-Working with:
+Working on:
 
-- React.js
-- Laravel
+- React.js Applications
+- Laravel Projects
 - REST APIs
-- Git & GitHub
+- Authentication
+- Database Integration
+- Git Workflow
 - Team Collaboration
 - Clean Code
 - Responsive Web Applications
 
 ---
 
-# 🌟 Featured Skills
+# 🌟 Core Skills
 
-✅ Frontend Development
+✔ Frontend Development
 
-✅ Backend Development
+✔ Backend Development
 
-✅ REST APIs
+✔ Mobile Development
 
-✅ UI/UX
+✔ REST APIs
 
-✅ Responsive Design
+✔ UI / UX Design
 
-✅ Version Control (Git)
+✔ Database Design
+
+✔ Version Control (Git)
+
+✔ Responsive Design
+
+✔ Problem Solving
 
 ---
 
-# 🎯 2025 Goals
+# 🎯 Current Focus
 
-- ✅ Master Laravel
-- ✅ Learn Django
-- ✅ Build more Full Stack Projects
-- ✅ Contribute to Open Source
-- ✅ Improve Problem Solving Skills
+- 📚 Master Laravel
+- 🐍 Learn Django
+- 🚀 Build More Full Stack Projects
+- 📱 Improve React Native Skills
+- 🌍 Contribute to Open Source
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/sofyanalawneh">
+
 <img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/sofyan-alawneh-016030409/">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 </p>
 
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer"/>
-
-</div>
