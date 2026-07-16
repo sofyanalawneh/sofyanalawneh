@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | Software Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub+Profile!;💻+Full+Stack+Developer;⚛️+React.js+Developer;🚀+Laravel+Developer;📱+React+Native+Developer;🐍+Currently+Learning+Python+%26+Django;🌱+Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;React.js+Developer;Laravel+Developer;React+Native+Developer;Currently+Learning+Python+and+Django;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 🗄️ Databases & Backend Services
+### 🗄️ Databases & Cloud Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
