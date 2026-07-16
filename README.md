@@ -22,13 +22,13 @@
 
 💼 **Full Stack Developer Trainee @ OppoTrain**
 
-💻 Passionate about building scalable, responsive and user-friendly web applications.
+💻 Passionate about building scalable, responsive, and user-friendly web and mobile applications.
 
 🎨 Interested in UI/UX Design and creating clean, modern user experiences.
 
 🌱 Currently learning **Python** & **Django** while expanding my backend development skills.
 
-🎯 Passionate about continuous learning and building impactful software solutions.
+🚀 Passionate about continuous learning, solving real-world problems, and building impactful software solutions.
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 🗄️ Database & Backend Services
+## 🗄️ Databases & Backend Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
@@ -84,7 +84,7 @@
 
 ---
 
-## 🛠 Tools
+## 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
@@ -116,20 +116,20 @@
 
 Currently gaining hands-on experience in:
 
-- Software Development
+- Professional Software Development
 - Team Collaboration
-- Git Workflow
+- Git & GitHub Workflow
 - Agile Development Practices
 - Working on Real-world Projects
 
 ---
 
-# 🌟 Core Skills
+# 🚀 Areas of Expertise
 
 - 💻 Frontend Development
 - ⚙️ Backend Development
-- 📱 Mobile Development
-- 🔗 REST API Development
+- 📱 Mobile Application Development
+- 🔗 RESTful API Development
 - 🗄️ Database Integration
 - ☁️ Backend as a Service (Firebase & Supabase)
 - 🎨 UI / UX Design
@@ -139,13 +139,13 @@ Currently gaining hands-on experience in:
 
 ---
 
-# 🎯 Current Goals
+# 📚 Currently Learning
 
-- 🚀 Build high-quality Full Stack Projects
-- 🐍 Master Django & Python
-- 📱 Improve React Native Development
-- 📚 Learn Software Architecture & Clean Code
-- 🌍 Contribute to Open Source Projects
+- 🐍 Python & Django
+- 📱 Advanced React Native
+- 🏗️ Software Architecture
+- 🧹 Clean Code Principles
+- 🌍 Open Source Contribution
 
 ---
 
