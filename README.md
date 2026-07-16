@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sofyan Alawneh
 
-### 💻 Full Stack Developer | Software Engineering Student @ An-Najah National University
+### 💻 Full Stack Developer | Software Engineering Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Software+Engineering+Student;React.js+Developer;Laravel+Developer;React+Native+Developer;Currently+Learning+Python+%26+Django;Always+Learning+New+Technologies" />
 
@@ -16,25 +16,23 @@
 
 # 👨‍💻 About Me
 
-🎓 **B.Sc. Student in Software Engineering**
-
-📍 An-Najah National University, Palestine
+🎓 **B.Sc. Student in Software Engineering** at **An-Najah National University**, Palestine 🇵🇸
 
 💼 **Full Stack Developer Trainee @ OppoTrain**
 
-💻 Passionate about building scalable, responsive, and user-friendly web and mobile applications.
+💻 Passionate about building modern, scalable, and user-friendly web & mobile applications.
 
-🎨 Interested in UI/UX Design and creating clean, modern user experiences.
+🎨 Interested in UI/UX Design and creating clean, intuitive user experiences.
 
-🌱 Currently learning **Python** & **Django** while expanding my backend development skills.
+🌱 Currently learning **Python** & **Django** while strengthening my backend development skills.
 
-🚀 Passionate about continuous learning, solving real-world problems, and building impactful software solutions.
+🚀 Always learning new technologies and improving my software engineering skills.
 
 ---
 
 # 🚀 Tech Stack
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
@@ -49,7 +47,7 @@
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel" />
@@ -61,7 +59,7 @@
 
 ---
 
-## 🗄️ Databases & Backend Services
+### 🗄️ Databases & Backend Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
@@ -73,18 +71,7 @@
 
 ---
 
-## 🌱 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django" />
-</p>
-
-- Python
-- Django
-
----
-
-## 🛠️ Tools
+### 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
@@ -110,17 +97,15 @@
 
 # 💼 Experience
 
-## Full Stack Developer Trainee
+## Full Stack Developer Trainee @ OppoTrain
 
-**🏢 OppoTrain**
-
-Currently gaining hands-on experience in:
+Currently gaining practical experience in:
 
 - Professional Software Development
-- Team Collaboration
+- Agile Team Collaboration
 - Git & GitHub Workflow
-- Agile Development Practices
-- Working on Real-world Projects
+- Real-world Project Development
+- Software Engineering Best Practices
 
 ---
 
@@ -131,7 +116,7 @@ Currently gaining hands-on experience in:
 - 📱 Mobile Application Development
 - 🔗 RESTful API Development
 - 🗄️ Database Integration
-- ☁️ Backend as a Service (Firebase & Supabase)
+- ☁️ Cloud Backend Services (Firebase & Supabase)
 - 🎨 UI / UX Design
 - 📐 Responsive Web Design
 - 🌿 Git & GitHub
@@ -141,11 +126,11 @@ Currently gaining hands-on experience in:
 
 # 📚 Currently Learning
 
-- 🐍 Python & Django
+- 🐍 Python
+- 🌐 Django
 - 📱 Advanced React Native
 - 🏗️ Software Architecture
 - 🧹 Clean Code Principles
-- 🌍 Open Source Contribution
 
 ---
 
